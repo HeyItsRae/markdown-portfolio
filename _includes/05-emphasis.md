@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Typing Speed** | _Words Per Minute_ | Accuracy
+------------------|----------------|--------
+August 2020| 150 wpm | 96%
