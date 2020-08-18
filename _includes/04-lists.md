@@ -1,3 +1,3 @@
-<li> :beach_umbrella: the beach </li> 
-<li> :world_map: traveling </li> 
-<li> :video_game: video games </li>
+- :beach_umbrella: the beach 
+- :world_map: traveling 
+- :video_game: video games 
